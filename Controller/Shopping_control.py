@@ -10,8 +10,8 @@ from slackeventsapi import SlackEventAdapter
 import Model.ShoppingMall_Model
 import itertools
 
-SLACK_TOKEN = "xoxb-677120743489-689663463669-QytfaFX5lMzWN4kFgOtUbtSM"
-SLACK_SIGNING_SECRET = "7d602b14f8d01b7c840ea51426ecffc1"
+SLACK_TOKEN = <SLACK_TOKEN>
+SLACK_SIGNING_SECRET = <SLACK_SIGNING_SECRET>
 
 
 app = Flask(__name__)
